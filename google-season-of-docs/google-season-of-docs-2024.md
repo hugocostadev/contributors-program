@@ -44,13 +44,13 @@ Every day new contributors post questions about Development setup, contribution,
 
 ### Project scope
 
-* Check and analyze GitHub issues, forums, and community channel data to find the areas to improve the main project documentation
-* Update main project documentation homepage with resources and fast links for most visited pages
+* Check and analyze main project [GitHub issues](https://github.com/RocketChat/Rocket.Chat/issues), [Rocket.Chat forum](https://forums.rocket.chat/), and [community channels](https://open.rocket.chat) data to find the areas to improve the main project documentation
+* Update [main project documentation](https://developer.rocket.chat) homepage with resources and fast links for most visited pages
 * Reorganize documentation structure to better-fit contributor needs and interests
-* Rewrite and improve Contribution guidelines and How to start contributing
+* Rewrite and improve [Contribution guidelines](https://developer.rocket.chat/contribute-to-rocket.chat/modes-of-contribution) and How to start contributing
 * Update the [Server (main project) Repository Structure](https://developer.rocket.chat/open-source-projects/server/repository-structure) documentation with current structure and packages explanations
-* Improve troubleshooting for the most common scenarios and systems that are reported in the community channels (GitHub, forum, and open channel)
-* Create a How to guide to:
+* Improve and update the [troubleshooting page](https://developer.rocket.chat/contribute-to-rocket.chat/modes-of-contribution/participate-in-rocket.chat-development/troubleshooting) for the most common scenarios and systems that are reported in the community channels (GitHub, forum, and community channels)
+* Create a HowTo guides for:
   * Write unit and end-to-end test
   * Write front-end code
   * Write back-end code
@@ -79,27 +79,27 @@ Developing apps to enhance Rocket.Chat's functionality offers a more straightfor
 
 Navigating our current documentation proves challenging for newcomers to app development. The available information lacks the necessary detail and clarity, turning what could be an efficient development process into a protracted and sometimes discouraging experience. This scenario often leads to developers feeling overwhelmed, potentially causing them to abandon their projects entirely.
 
-Presently, app development for Rocket.Chat can be daunting without direct assistance from seasoned app developers or our internal team.
+Presently, app development for Rocket.Chat can be daunting without direct assistance from seasoned app developers or our internal team, due to outdated informations.
 
 **Existing documentation page:** [https://developer.rocket.chat/apps-engine/rocket.chat-apps-engine](https://developer.rocket.chat/apps-engine/rocket.chat-apps-engine)
 
 ### Project scope
 
-* Check and analyze GitHub issues, forums, and community channel data to find the areas to improve the main project documentation
-* Update outdated information about the Apps.Engine
-* Create rich How to guides with images and source code to:
-  * Create a slash command app
-  * Call external APIs
-  * Use UI elements to interact with the user or app
-  * Handle permissions
-  * Add a configurations page to your app
-  * Persist data
-  * Add internationalization to your app
-  * Register API endpoint
-  * OAuth with external applications
-  * Schedule tasks that run in a defined period
+* Check and analyze main project [GitHub issues](https://github.com/RocketChat/Rocket.Chat/issues), [Rocket.Chat forum](https://forums.rocket.chat/), and [community channels](https://open.rocket.chat) data to find the areas to improve the main project documentation
+* Update outdated information about the [Apps.Engine documentation](https://developer.rocket.chat/apps-engine/rocket.chat-apps-engine)
+* Create or improve/update HowTo guides for:
+  * Create a slash command app ([existing doc](https://developer.rocket.chat/apps-engine/extend-app-capabilities/slash-commands/slash-command-examples))
+  * Call external APIs ([existing doc](https://developer.rocket.chat/apps-engine/extend-app-capabilities/http-requests))
+  * Use UI elements to interact with the user or app ([existing doc](https://developer.rocket.chat/apps-engine/extend-app-capabilities/apps-engine-user-interface))
+  * Handle permissions ([existing doc](https://developer.rocket.chat/apps-engine/app-permission-system))
+  * Add a configurations page to your app ([existing doc](https://developer.rocket.chat/apps-engine/app-configuration))
+  * Persist data ([existing doc](https://developer.rocket.chat/apps-engine/app-data-persistence))
+  * Add internationalization to your app ([existing doc](https://developer.rocket.chat/apps-engine/app-internationalization))
+  * Register API endpoint ([existing doc](https://developer.rocket.chat/apps-engine/adding-features/registering-api-endpoints))
+  * OAuth with external applications ([existing doc](https://developer.rocket.chat/apps-engine/adding-features/oauth2-client))
+  * Schedule tasks that run in a defined period ([existing doc](https://developer.rocket.chat/apps-engine/adding-features/scheduler-api))
   * Debug your app
-  * Publish the app in the Rocket.Chat marketplace
+  * Publish the app in the Rocket.Chat marketplace ([existing doc](https://developer.rocket.chat/apps-engine/app-submission-to-the-marketplace))
 
 ### Out of scope
 
@@ -119,7 +119,6 @@ Presently, app development for Rocket.Chat can be daunting without direct assist
 
 **Must have:**
 
-* Availability to work 30 hours/week.
 * Demonstrated experience working with large and complex structured docs for developers.
 * Basic technical understanding of modern web and CS concepts.
 
@@ -143,7 +142,7 @@ Budget consists of tech writer payment, swags, subscriptions, and up to 3 volunt
 
 | Type                                | Amount   | Running total | Notes                 |
 | ----------------------------------- | -------- | ------------- | --------------------- |
-| Tech writer payment                 | 12000USD | 13000USD      |                       |
-| T-shirt swags                       | 250USD   | 14000USD      | Writer + 3 volunteers |
-| Documentation Tool subscription     | 300USD   | 14300USD      | Writer + Administrator|
-| **TOTAL**                           |          | 14300USD      |                       |
+| Tech writer payment                 | 12000USD | 12000USD      |                       |
+| T-shirt swags                       | 250USD   | 13000USD      | Writer + 3 volunteers |
+| Documentation Tool subscription     | 300USD   | 13300USD      | Writer + Administrator|
+| **TOTAL**                           |          | 13300USD      |                       |
